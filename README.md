@@ -3,6 +3,7 @@ A Web-based Music Player Application.I love the idea of seeing your interactions
 It's an Personal music player in which I have my fav songs that I want .I can also add new songs to it as well if I wish to delete anyone then also.
 
 #FEATURES
+
 -Own playlist
 -Able to remove or add songs
 -Song can be added as much as you want
