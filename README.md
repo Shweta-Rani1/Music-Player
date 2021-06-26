@@ -1,16 +1,17 @@
-                                                     #Music player
+<h1>Music player</h2>
+
 A Web-based Music Player Application.I love the idea of seeing your interactions with your music experiences. So, I decided to create a personal music player
-It's an Personal music player in which I have my fav songs that I want .I can also add new songs to it as well if I wish to delete anyone then also.
+It's a Personal music player in which I have my fav songs that I want .I can also add new songs to it as well if I wish to delete anyone then also.
 This is a Simple music player which is capable of playing music files from an internal or external SD card. 
 
 You can Read and Show all the Meta tags of Audo File like Artist, Title,Music Cover in the player.
  
- Preview
+ <h2>Preview</h2>
   
-![](images/Screenshot%20(8).png)
+![](Screenshot.png)
 
 
-#FEATURES
+<h2>FEATURES</h2>
 
 -Own playlist
 
