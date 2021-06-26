@@ -1,4 +1,4 @@
-<h1>Music player</h2>
+<h1>Music player🎶</h2>
 
 A Web-based Music Player Application.I love the idea of seeing your interactions with your music experiences. So, I decided to create a personal music player
 It's a Personal music player in which I have my fav songs that I want .I can also add new songs to it as well if I wish to delete anyone then also.
@@ -6,9 +6,11 @@ This is a Simple music player which is capable of playing music files from an in
 
 You can Read and Show all the Meta tags of Audo File like Artist, Title,Music Cover in the player.
  
- <h2>Preview</h2>
+ <h2>Preview👀</h2>
   
 ![](Screenshot.png)
+
+<h2>Have a try✨</h2>
 https://shweta-rani1.github.io/Music-Player/
 <h3>Clone this repository</h3>
 
