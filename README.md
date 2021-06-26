@@ -12,6 +12,9 @@ You can Read and Show all the Meta tags of Audo File like Artist, Title,Music Co
 https://shweta-rani1.github.io/Music-Player/
 <h3>Clone this repository</h3>
 
+```
+git clone https://github.com/Shweta-Rani1/Music-Player
+```
 <h2>FEATURES</h2>
 
 -Own playlist
