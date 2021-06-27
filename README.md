@@ -11,7 +11,7 @@ You can Read and Show all the Meta tags of Audo File like Artist, Title,Music Co
 ![](Screenshot.png)
 
 <h2>Have a try✨</h2>
-https://github.com/Shweta-Rani1/Music-Player
+ https://shweta-rani1.github.io/Music-Player/
 <h3>Clone this repository</h3>
 
 ```
